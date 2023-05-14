@@ -1,0 +1,40 @@
+*{
+  font-family: Times;
+}
+
+.infocontainer {
+  position: absolute;
+  top: 40%; 
+  left: 45%; 
+  transform: translate(-44%, -30%); 
+  color: rgb(0, 0, 0);
+  padding: 20px;
+  height:50%;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25);
+  width:70%;
+  background-color:whitesmoke;
+  border-radius:2%;
+}
+
+h4{
+  background-color: rgba(0,0,0,0);
+  color:rgb(131, 127, 127);
+  text-align:center; 
+  font-weight:bold;
+  font-family:Arial;
+  font-size:13px;
+}
+
+img{
+  width:118.9%;
+  height:480px;
+  margin-left:-12%;
+}
+
+hr{
+  border: none; 
+  height: 2px; 
+  background-color: rgb(8, 137, 180);
+  margin-top: 10px; 
+  margin-bottom: 10px; 
+}
